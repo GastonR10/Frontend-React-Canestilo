@@ -1,0 +1,69 @@
+[
+  {
+    "nombre": "Accesorio3",
+    "precio": 300,
+    "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+},
+  
+  {
+        "nombre": "Accesorio1",
+        "precio": 60,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+      "nombre": "Accesorio2",
+      "precio": 250,
+      "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+        "nombre": "Accesorio3",
+        "precio": 300,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+        "nombre": "Accesorio4",
+        "precio": 120,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+        "nombre": "Accesorio5",
+        "precio": 80,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+        "nombre": "Accesorio6",
+        "precio": 280,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+    },
+    {
+        "nombre": "Accesorio7",
+        "precio": 2320,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      },
+      {
+        "nombre": "Accesorio8",
+        "precio": 1080,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      },
+      {
+        "nombre": "Accesorio9",
+        "precio": 310,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      },
+      {
+        "nombre": "Accesorio10",
+        "precio": 580,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      },
+      {
+        "nombre": "Accesorio11",
+        "precio": 220,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      },
+      {
+        "nombre": "Accesorio12",
+        "precio": 80,
+        "link": "https://wetopdogs.com/wp-content/uploads/2020/02/correas-perro-marron-mutiposicion.jpg"
+      }
+      
+  ]
