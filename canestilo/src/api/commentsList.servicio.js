@@ -8,3 +8,4 @@ async function fetchCommentsList() {
 export default {
     fetchCommentsList,
 };
+

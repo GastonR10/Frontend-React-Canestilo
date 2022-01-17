@@ -3,9 +3,9 @@ import Comment from "./Comment";
 const CommentsList = ({ commentsList }) => {
   return (
     <div>
-      <h2>Comentarios</h2>
+      <h2>Comentarios de usuarios</h2>
       {commentsList.length === 0 ? (
-        <h3>Esperamos tus comentarios!</h3>
+        <h4>Esperamos tus comentarios!</h4>
       ) : (
         <ul>
           {commentsList.map((comment) => (

@@ -9,29 +9,27 @@ const Comments = () => {
     try {
       const commentsListFromApi =
         await commentsListServicio.fetchCommentsList();
-
-      setCommentsList(commentsListFromApi);
+      console.log(commentsListFromApi.comments);
+      setCommentsList(commentsListFromApi.comments);
     } catch (error) {}
   }, []);
 
   return (
-    <div>
-      <div id="comentarios2">
-        <h2>Comentarios</h2>
-        <div id="info">Agradecemos nos ayudes a mejorar día a día</div>
-        <form>
-          <textarea
-            id="text"
-            onkeypress="return limita(event, 280);"
-            onkeyup="actualizaInfo(280)"
-            cols="30"
-            rows="6"
-          ></textarea>
-          <button id="submitComment" type="submit">
-            Subir comentario
-          </button>
-        </form>
-      </div>
+    <div id="comentarios2">
+      <h2>Comentarios</h2>
+      <div id="info">Agradecemos nos ayudes a mejorar día a día</div>
+      <form>
+        <textarea
+          id="text"
+          onkeypress="return limita(event, 280);"
+          onkeyup="actualizaInfo(280)"
+          cols="30"
+          rows="6"
+        ></textarea>
+        <button id="submitComment" type="submit">
+          Subir comentario
+        </button>
+      </form>
       <CommentsList commentsList={commentsList} />
     </div>
   );
